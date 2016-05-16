@@ -1,3 +1,0 @@
-User-Agent: *
-Disallow:
-Sitemap: https://freifunk-westerwald.de/sitemap.xml
