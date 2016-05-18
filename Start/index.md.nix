@@ -8,11 +8,10 @@ excerpt: Willkommen bei Freifunk-Partenheim
 tags: [freifunk, mitmachen, router]
 image:
   feature: background_home.jpg
-  credit: CC-BY Lukas Ruge
-  creditlink: https://www.flickr.com/photos/tvluke/21359964616/
-date: 2016-05-16T19:53:06+01:00
+  credit: Wolfgang Hallmann
+date: 2016-05-18T19:53:06+01:00
 ---
-# Wat is Freifunk?
+# Was is Freifunk?
 Freifunk ist ein Projekt, das versucht ein lokales Datennetz auf Basis von
 WLAN-Routern aufzubauen. Dieses Netz soll eine freie Kommunikation innerhalb
 der ganzen Region und, mithilfe von Peerings zu anderen Freifunk-Communities,
@@ -49,3 +48,4 @@ stellen damit einen unkomplizierten und freien Internetzugang für die Bewohner
 bereit. Solltest du zuständig für eine Flüchtlingsunterkunft sein, jemanden
 kennen der eine betreut oder in der Nähe wohnen, melde dich bitte bei uns, damit
 wir solche Projekte weiter vorantreiben können. Vorab vielen Dank.
+
