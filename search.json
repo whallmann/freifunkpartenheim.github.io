@@ -7,6 +7,14 @@
   
 
   
+    ,{
+      "title"			: "Sicherheit im Netz",
+      "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//sicherheit/",
+      "excerpt"		: "Sicherheit im Freifunknetz",
+      "content"                 : "Das Freifunknetz ist prinzipbedingt weder sicherer noch unsicherer als jeder andere öffentlich nutzbare Internetzugang. Trotzdem möchten wir dir hier einige Tipps und Ratschläge geben, die du auch beim Surfen über fremde Internetzugänge beherzigen solltest.Du bewegst dich beim Surfen in einem Freifunknetz in einem WLAN, zu dem viele Teilnehmer Zugang haben. Theoretisch ist es diesen, ebenso wie uns, möglich deine übertragenen Daten mit zuschneiden oder gar zu manipulieren. Bitte verwende daher wo immer möglich die HTTPS Verschlüsselung. Dies tust du durch die Eingabe von “https://” anstelle von “http://”. Das kleine grüne Schloss in deiner Browserleiste zeigt eine verschlüsselte Verbindung an. Zur Unterstützung gibt es die Erweiterung “HTTPS Everywhere” der Electronic Frontier Foundation für Chrome und Firefox. Die Erweiterung  ersetzt automatisch HTTP-Anfragen durch HTTPS-Anfragen, wenn der Server HTTPS unterstützt.Wenn du häufig in fremden Netzen unterwegs bist, kannst du deine Sicherheit weiter erhöhen, indem du eine VPN Verbindung aufbaust. Damit wird jeglicher Datenverkehr deiner Endgeräte verschlüsselt. Die dafür benötigten Gegenstellen kannst du im Internet für wenige Euro im Monat mieten."
+
+    }
+  
 
   
 
@@ -64,24 +72,16 @@
 
   
     ,{
-      "title"			: "Sicherheit im Netz",
-      "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//sicherheit/",
-      "excerpt"		: "Sicherheit im Freifunknetz",
-      "content"                 : "Das Freifunknetz ist prinzipbedingt weder sicherer noch unsicherer als jeder andere öffentlich nutzbare Internetzugang. Trotzdem möchten wir dir hier einige Tipps und Ratschläge geben, die du auch beim Surfen über fremde Internetzugänge beherzigen solltest.Du bewegst dich beim Surfen in einem Freifunknetz in einem WLAN, zu dem viele Teilnehmer Zugang haben. Theoretisch ist es diesen, ebenso wie uns, möglich deine übertragenen Daten mit zuschneiden oder gar zu manipulieren. Bitte verwende daher wo immer möglich die HTTPS Verschlüsselung. Dies tust du durch die Eingabe von “https://” anstelle von “http://”. Das kleine grüne Schloss in deiner Browserleiste zeigt eine verschlüsselte Verbindung an. Zur Unterstützung gibt es die Erweiterung “HTTPS Everywhere” der Electronic Frontier Foundation für Chrome und Firefox. Die Erweiterung  ersetzt automatisch HTTP-Anfragen durch HTTPS-Anfragen, wenn der Server HTTPS unterstützt.Wenn du häufig in fremden Netzen unterwegs bist, kannst du deine Sicherheit weiter erhöhen, indem du eine VPN Verbindung aufbaust. Damit wird jeglicher Datenverkehr deiner Endgeräte verschlüsselt. Die dafür benötigten Gegenstellen kannst du im Internet für wenige Euro im Monat mieten."
+      "title"			: "Willkommen",
+      "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//Start/",
+      "excerpt"		: "Willkommen bei Freifunk-Partenheim",
+      "content"                 : "Was is Freifunk?Freifunk ist ein Projekt, das versucht ein lokales Datennetz auf Basis vonWLAN-Routern aufzubauen. Dieses Netz soll eine freie Kommunikation innerhalbder ganzen Region und, mithilfe von Peerings zu anderen Freifunk-Communities,auch überregional ermöglichen. Um dies zu erreichen, werden Freifunkknoten,das sind die Router mit modifizierter Software, von freiwilligen an vielenOrten aufgestellt und betrieben. Jedes WLAN-fähige Gerät, beispielsweise einHandy oder Notebook, kann sich in der Nähe eines solchen Knotens mit dem Netzverbinden und darüber mit anderen Teilnehmern kommunizieren. Auch ein Zugang insInternet steht meistens zur Verfügung.                        Video Starten        (Wird von vimeo.com gestreamt)    Aufbau Freifunk PartenheimIm Ort gibt es bereits viele Leute, die sich einen Freifunk-Router aufgestellt haben. Zwei Familien haben an ihrem DSL Anschluss einen FF-Router angeschlossen, wodurch alle im Netz, egal wo im Ortfreies WLAN mit Internetzugang genießen können.Um das Netz besonders schnell machen zu können, gibt es am Rathaus, An der Ampel mehrere Basisstationen. Das nennt man auch “Backbone” (siehe Wiki). Wer sich das mal anschauen will, kann alle Punkte mit aktuellem Statusauf einer Live-Karte sehen.   (Zoomen auf Partenheim)Partenheim ist mit seinem Netz technisch am Freifunk-Mainz angeschlossen, deswegen auch die WLAN Kennung “Freifunk-Mainz” zu sehen ist.Unterstützung von FlüchtlingsunterkünftenDie aktuelle Flüchtlingssituation geht auch an uns Partenheim nicht spurlosvorbei. Wir haben bereits mehrere Unterkünfte an unser Netz angeschlossen undstellen damit einen unkomplizierten und freien Internetzugang für die Bewohnerbereit. Solltest du zuständig für eine Flüchtlingsunterkunft sein, jemandenkennen der eine betreut oder in der Nähe wohnen, melde dich bitte bei uns, damitwir solche Projekte weiter vorantreiben können. Vorab vielen Dank."
 
     }
   
 
   
 
-  
-    ,{
-      "title"			: "Netzstatus",
-      "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//status/",
-      "excerpt"		: "Unser Netzstatus",
-      "content"                 : "Zur Zeit betreiben wir keine eigene Infrastruktur, sondern nutzen die Infrastruktur von Freifunk Mayen-Koblenz mit. Dennoch können wir hier einen kleinen Einblick in unser Netz geben. Im Blog findest du ab und an einen aktuellen Bericht zu einigen Netzkennzahlen.KarteDie Freifunkkarte zeigt die Standorte der meisten Router in unserem Netz sowie einige Informationen zu deren Auslastung. Erreichen kannst du sie unterhttp://map.freifunk-westerwald.de/Status unserer DiensteDa es ab und an geplante oder ungeplante Ausfälle unserer Infrastruktur geben kann, steht eine Statuspage für unsere Dienste zur Verfügung. Hier werden auch Wartungsarbeiten angekündigt.https://status.freifunk-westerwald.de/"
-
-    }
   
 
   
@@ -113,6 +113,26 @@
       "title"			: "Unsere Termine",
       "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//termine/",
       "excerpt"		: "Termine, Treffen, Techniktreffen, Kalender, Stammtisch",
+      "content"                 : "Unseren Treffen findest du im zentralen Vereinskalender unseres Freifunk-Blog’s."
+
+    }
+  
+
+  
+    ,{
+      "title"			: "Netzstatus",
+      "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//status/",
+      "excerpt"		: "Unser Netzstatus",
+      "content"                 : "Freifunk für Mainz/Wiesbaden und Umgebung: MWUFreifunk in Mainz und Wiesbaden wird über die gleiche Infrastruktur betrieben, ist aber in eigene Netzwerke getrennt. Damit wir uns gegenüber Behörden, Gewerbetreibenden und anderen Vertragsteilnehmern besser positionieren können, wurdeder Verein “Freifunk-Mainz e.V.” gegründet. Wir sind gemeinnützig und Spenden sind abzugsfähig. Eine Mitgliedschaft ist wünschenswert aber keine Voraussetzung um bei uns in der Community mitwirken zu können.Netzstatus - Die Live-KarteDie Freifunk-Karte zeigt den minutengenauen Status aller Knoten und deren Verbindungen untereinander. Hier kannst du auch unsere Router in Partenheim sehen und wie viele Nutzer sich eingeloggt haben (Kleine Punkte um den Knotenkreis). Zur Karte gehts hier lang: http://map.freifunk-mainz.de/"
+
+    }
+  
+
+  
+    ,{
+      "title"			: "Unsere Termine",
+      "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//termine/index.md.bak",
+      "excerpt"		: "Termine, Treffen, Techniktreffen, Kalender, Stammtisch",
       "content"                 : ""
 
     }
@@ -120,20 +140,10 @@
 
   
     ,{
-      "title"			: "Willkommen",
-      "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//Start/",
-      "excerpt"		: "Willkommen bei Freifunk-Partenheim",
-      "content"                 : "Was is Freifunk?Freifunk ist ein Projekt, das versucht ein lokales Datennetz auf Basis vonWLAN-Routern aufzubauen. Dieses Netz soll eine freie Kommunikation innerhalbder ganzen Region und, mithilfe von Peerings zu anderen Freifunk-Communities,auch überregional ermöglichen. Um dies zu erreichen, werden Freifunkknoten,das sind die Router mit modifizierter Software, von freiwilligen an vielenOrten aufgestellt und betrieben. Jedes WLAN-fähige Gerät, beispielsweise einHandy oder Notebook, kann sich in der Nähe eines solchen Knotens mit dem Netzverbinden und darüber mit anderen Teilnehmern kommunizieren. Auch ein Zugang insInternet steht meistens zur Verfügung.                        Video Starten        (Wird von vimeo.com gestreamt)    Aufbau Freifunk PartenheimIm Ort gibt es bereits viele Leute, die sich einen Freifunk-Router aufgestellt haben. Zwei Familien haben an ihrem DSL Anschluss einen FF-Router angeschlossen, wodurch alle im Netz, egal wo im Ortfreies WLAN mit Internetzugang genießen können.Um das Netz besonders schnell machen zu können, gibt es am Rathaus, An der Ampel mehrere Basisstationen. Das nennt man auch “Backbone” (siehe Wiki). Wer sich das mal anschauen will, kann alle Punkte mit aktuellem Statusauf einer Live-Karte sehen.   (Zoomen auf Partenheim)Partenheim ist mit seinem Netz technisch am Freifunk-Mainz angeschlossen, deswegen auch die WLAN Kennung “Freifunk-Mainz” zu sehen ist.Unterstützung von FlüchtlingsunterkünftenDie aktuelle Flüchtlingssituation geht auch an uns Partenheim nicht spurlosvorbei. Wir haben bereits mehrere Unterkünfte an unser Netz angeschlossen undstellen damit einen unkomplizierten und freien Internetzugang für die Bewohnerbereit. Solltest du zuständig für eine Flüchtlingsunterkunft sein, jemandenkennen der eine betreut oder in der Nähe wohnen, melde dich bitte bei uns, damitwir solche Projekte weiter vorantreiben können. Vorab vielen Dank."
-
-    }
-  
-
-  
-    ,{
-      "title"			: "Mitmachen",
-      "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//mitmachen/index.md.bak",
-      "excerpt"		: "Wie du bei Freifunk mitmachen kannst findest du auf dieser Seite.",
-      "content"                 : "Es gibt viele Wege wie du uns und die Freifunkidee unterstützen kannst.# Freifunkrouter aufstellenUm Teil des Freifunknetzes zu werden, benötigst du lediglich einen günstigen Freifunkrouter und ein wenig Platz um diesen aufzustellen. Dieser Router verbindet sich mit anderen Routern in deiner Nähe und unseren Servern. Jeder Router stellt einen Netzwerkknoten dar. Dadurch entsteht ein öffentlich und anonym zugängliches Netzwerk. Jeder ist dazu eingeladen Freifunk zu nutzen und zu unterstützen. Natürlich können sich auch Nicht-Techniker aktiv in der Gestaltung des Freifunknetzes im Westerwald beteiligen. Die Kosten für einen eigenen Freifunk-Router betragen, je nach Routermodel einmalig 15 bis 40 EUR. Hinzu kommen die jährlichen Stromkosten  die in der Regel weniger als fünf Euro pro Jahr betragen.Oftmals stellt sich die Frage wie es um den rechtlichen Rahmen bestellt ist, wenn man einen Internetanschluss in Deutschland zur Verfügung stellt. Der entscheidende Punkt bei der Bereitstellung eines offenen WLAN ist die Störerhaftung. Die Störerhaftung besagt, dass z.B. bei Urheberrechtsverletzungen, welche durch Gäste verursacht werden können, der Betreiber eines WLAN verschuldensunabhängig haftbar gemacht werden kann. Um dieses Problem zu umgehen, nutzen wir ein Konzept, welches schon seit Langem erfolgreich in anderen Freifunk-Communities eingesetzt wird. Wir leiten die Daten von den Freifunk Routern an unsere Server. Da alle Verbindungen über einen gemeinsamen Austrittspunkt geleitet werden, ist es nicht möglich Rückschlüsse auf den Router oder gar den User zu ziehen. Der Weg bis zu diesem Austrittspunkt ist verschlüsselt und somit nicht einsehbar. Nutzerdaten werden von uns nicht gespeichert, mehr dazu erfährst du in unseren Hinweisen zum [Datenschutz](/datenschutz).## Freifunk-Router Abholen (empfohlen)Auf unseren Treffen haben wir meist Router aus einer Sammelbestellung zu bekommen. Ein Treffen bietet dir auch die Möglichkeit, bei einem kühlen oder heißen Getränk nützliche Tipps zum optimalen Freifunk-Betrieb zu erhalten oder offene Fragen zu klären. Dabei kannst du auch direkt die Community hinter Freifunk Westerwald kennen lernen und neue Kontakte knüpfen. Die Termine dazu findest du [hier](/termine). Zwecks erleichterter Planung wäre es vorteilhaft, wenn du uns vorher mitteilst, dass du an einem Treffen teilnimmst.## Freifunk-Router selbst machenNatürlich kannst du auch zu Hause deinen eigenen Freifunkknoten basteln: Einfach ein unterstütztes Router-Modell aussuchen, beim Online-Händler deiner Wahl bestellen und innerhalb von zehn Minuten mit unserer Firmware zu einem Freifunkknoten umrüsten. Wenn du dabei Probleme hast, kannst du natürlich gerne auch mit deinem Router auf eines unserer Treffen kommen oder uns eine E-Mail schreiben. Wir helfen dir gerne dabei.Unsere Firmware findest du unter  . Eine Anleitung zum Installieren der Firmware findest du [hier](../anleitung/).## MailinglisteDie Kommunikation läuft hauptsächlich über unsere Mailingliste - eine Art großer E-Mail-Verteiler. Um dich für die Mailingliste zu registrieren, sende eine Mail an general-subscribe @ freifunk-westerwald .de du erhältst dann eine Bestätigungsmail. Auf diese musst du durch klicken auf „Antworten“ mit einer leeren Mail antworten. Ab dann erhältst du alle E-Mails auf der Mailingliste. Wenn du eine neue E-Mail an alle schreiben möchtest, kannst du die Adresse general @ freifunk-westerwald .de benutzen - möchtest du jemandem antworten verwende die Funktion „Liste antworten“ oder „Allen antworten“.## Rede mit anderenDie Freifunkidee kann sich nur verbreiten, wenn darüber geredet wird. Sprich Freunde und Bekannte an und erzähle ihnen von Freifunk. Jeder aufgestellte Router ist ein Schritt in Richtung eines unabhängigen Netzes.## Du willst noch mehr machen?Du hast die Mailingliste abonniert und einen Router aufgestellt, möchtest aber noch mehr machen? Super. Wir suchen immer Leute die uns helfen. Was es bei uns zu tun gibt? Recht viel und gerade abseits vom technischen haben wir viele Baustellen. Neben der Arbeit an unseren Systemen oder der Anpassung unserer Software müssen auch Texte für die Webseite verfasst und korrigiert werden, Flyer erstellt oder Support-Anfragen bearbeitet werden. Auch wenn da jetzt nichts dabei ist, was dich direkt anspricht, komm einfach zu einem unserer Treffen. Wir würden dich gerne kennenlernen und finden dann auch etwas, das zu dir und deinen Fähigkeiten passt."
+      "title"			: "Netzstatus",
+      "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//status/index.md.bak",
+      "excerpt"		: "Unser Netzstatus",
+      "content"                 : "# Freifunk für Mainz/Wiesbaden und Umgebung: MWUFreifunk in Mainz und Wiesbaden wird über die gleiche Infrastruktur betrieben, ist aber in eigene Netzwerke getrennt. Damit wir uns gegenüber Behörden, Gewerbetreibenden und anderen Vertragsteilnehmern besser positionieren können, wurdeder Verein "Freifunk-Mainz e.V." gegründet. Wir sind gemeinnützig und Spenden sind abzugsfähig. Eine Mitgliedschaft ist wünschenswert aber keine Voraussetzung um bei uns in der Community mitwirken zu können.# Netzstatus - Die Live-KarteDie Freifunk-Karte zeigt den minutengenauen Status aller Knoten und deren Verbindungen untereinander. Hier kannst du auch unsere Router in Partenheim sehen und wie viele Nutzer sich eingeloggt haben (Kleine Punkte um den Knotenkreis). Zur Karte gehts hier lang: [http://map.freifunk-mainz.de/](http://map.freifunk-mainz.de/)"
 
     }
   
