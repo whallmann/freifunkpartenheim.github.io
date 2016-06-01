@@ -71,17 +71,15 @@
   
 
   
+
+  
     ,{
-      "title"			: "Willkommen",
-      "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//Start/",
-      "excerpt"		: "Willkommen bei Freifunk-Partenheim",
-      "content"                 : "Was is Freifunk?Freifunk ist ein Projekt, das versucht ein lokales Datennetz auf Basis vonWLAN-Routern aufzubauen. Dieses Netz soll eine freie Kommunikation innerhalbder ganzen Region und, mithilfe von Peerings zu anderen Freifunk-Communities,auch überregional ermöglichen. Um dies zu erreichen, werden Freifunkknoten,das sind die Router mit modifizierter Software, von freiwilligen an vielenOrten aufgestellt und betrieben. Jedes WLAN-fähige Gerät, beispielsweise einHandy oder Notebook, kann sich in der Nähe eines solchen Knotens mit dem Netzverbinden und darüber mit anderen Teilnehmern kommunizieren. Auch ein Zugang insInternet steht meistens zur Verfügung.                        Video Starten        (Wird von vimeo.com gestreamt)    Aufbau Freifunk PartenheimIm Ort gibt es bereits viele Leute, die sich einen Freifunk-Router aufgestellt haben. Zwei Familien haben an ihrem DSL Anschluss einen FF-Router angeschlossen, wodurch alle im Netz, egal wo im Ortfreies WLAN mit Internetzugang genießen können.Um das Netz besonders schnell machen zu können, gibt es am Rathaus, An der Ampel mehrere Basisstationen. Das nennt man auch “Backbone” (siehe Wiki). Wer sich das mal anschauen will, kann alle Punkte mit aktuellem Statusauf einer Live-Karte sehen.   (Zoomen auf Partenheim)Partenheim ist mit seinem Netz technisch am Freifunk-Mainz angeschlossen, deswegen auch die WLAN Kennung “Freifunk-Mainz” zu sehen ist.Unterstützung von FlüchtlingsunterkünftenDie aktuelle Flüchtlingssituation geht auch an uns Partenheim nicht spurlosvorbei. Wir haben bereits mehrere Unterkünfte an unser Netz angeschlossen undstellen damit einen unkomplizierten und freien Internetzugang für die Bewohnerbereit. Solltest du zuständig für eine Flüchtlingsunterkunft sein, jemandenkennen der eine betreut oder in der Nähe wohnen, melde dich bitte bei uns, damitwir solche Projekte weiter vorantreiben können. Vorab vielen Dank."
+      "title"			: "Netzstatus",
+      "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//status/",
+      "excerpt"		: "Unser Netzstatus",
+      "content"                 : "Freifunk für Mainz/Wiesbaden und Umgebung: MWUFreifunk in Mainz und Wiesbaden wird über die gleiche Infrastruktur betrieben, ist aber in eigene Netzwerke getrennt. Damit wir uns gegenüber Behörden, Gewerbetreibenden und anderen Vertragsteilnehmern besser positionieren können, wurdeder Verein “Freifunk-Mainz e.V.” gegründet. Wir sind gemeinnützig und Spenden sind abzugsfähig. Eine Mitgliedschaft ist wünschenswert aber keine Voraussetzung um bei uns in der Community mitwirken zu können.Netzstatus - Die Live-KarteDie Freifunk-Karte zeigt den minutengenauen Status aller Knoten und deren Verbindungen untereinander. Hier kannst du auch unsere Router in Partenheim sehen und wie viele Nutzer sich eingeloggt haben (Kleine Punkte um den Knotenkreis).Zur Karte gehts hier lang: http://map.freifunk-mainz.de/"
 
     }
-  
-
-  
-
   
 
   
@@ -119,31 +117,13 @@
   
 
   
-    ,{
-      "title"			: "Netzstatus",
-      "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//status/",
-      "excerpt"		: "Unser Netzstatus",
-      "content"                 : "Freifunk für Mainz/Wiesbaden und Umgebung: MWUFreifunk in Mainz und Wiesbaden wird über die gleiche Infrastruktur betrieben, ist aber in eigene Netzwerke getrennt. Damit wir uns gegenüber Behörden, Gewerbetreibenden und anderen Vertragsteilnehmern besser positionieren können, wurdeder Verein “Freifunk-Mainz e.V.” gegründet. Wir sind gemeinnützig und Spenden sind abzugsfähig. Eine Mitgliedschaft ist wünschenswert aber keine Voraussetzung um bei uns in der Community mitwirken zu können.Netzstatus - Die Live-KarteDie Freifunk-Karte zeigt den minutengenauen Status aller Knoten und deren Verbindungen untereinander. Hier kannst du auch unsere Router in Partenheim sehen und wie viele Nutzer sich eingeloggt haben (Kleine Punkte um den Knotenkreis). Zur Karte gehts hier lang: http://map.freifunk-mainz.de/"
-
-    }
-  
 
   
     ,{
-      "title"			: "Unsere Termine",
-      "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//termine/index.md.bak",
-      "excerpt"		: "Termine, Treffen, Techniktreffen, Kalender, Stammtisch",
-      "content"                 : ""
-
-    }
-  
-
-  
-    ,{
-      "title"			: "Netzstatus",
-      "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//status/index.md.bak",
-      "excerpt"		: "Unser Netzstatus",
-      "content"                 : "# Freifunk für Mainz/Wiesbaden und Umgebung: MWUFreifunk in Mainz und Wiesbaden wird über die gleiche Infrastruktur betrieben, ist aber in eigene Netzwerke getrennt. Damit wir uns gegenüber Behörden, Gewerbetreibenden und anderen Vertragsteilnehmern besser positionieren können, wurdeder Verein "Freifunk-Mainz e.V." gegründet. Wir sind gemeinnützig und Spenden sind abzugsfähig. Eine Mitgliedschaft ist wünschenswert aber keine Voraussetzung um bei uns in der Community mitwirken zu können.# Netzstatus - Die Live-KarteDie Freifunk-Karte zeigt den minutengenauen Status aller Knoten und deren Verbindungen untereinander. Hier kannst du auch unsere Router in Partenheim sehen und wie viele Nutzer sich eingeloggt haben (Kleine Punkte um den Knotenkreis). Zur Karte gehts hier lang: [http://map.freifunk-mainz.de/](http://map.freifunk-mainz.de/)"
+      "title"			: "Willkommen",
+      "link"			: "http://whallmann.github.io/freifunkpartenheim.github.io//Start/",
+      "excerpt"		: "Willkommen bei Freifunk-Partenheim",
+      "content"                 : "Was is Freifunk?Freifunk ist ein Projekt, das versucht ein lokales Datennetz auf Basis vonWLAN-Routern aufzubauen. Dieses Netz soll eine freie Kommunikation innerhalbder ganzen Region und, mithilfe von Peerings zu anderen Freifunk-Communities,auch überregional ermöglichen. Um dies zu erreichen, werden Freifunkknoten,das sind die Router mit modifizierter Software, von freiwilligen an vielenOrten aufgestellt und betrieben. Jedes WLAN-fähige Gerät, beispielsweise einHandy oder Notebook, kann sich in der Nähe eines solchen Knotens mit dem Netzverbinden und darüber mit anderen Teilnehmern kommunizieren. Auch ein Zugang insInternet steht meistens zur Verfügung.                        Video Starten        (Wird von vimeo.com gestreamt)    Aufbau Freifunk PartenheimIm Ort gibt es bereits viele Leute, die sich einen Freifunk-Router aufgestellt haben. Zwei Familien haben an ihrem DSL Anschluss einen FF-Router angeschlossen, wodurch alle im Netz, egal wo im Ortfreies WLAN mit Internetzugang genießen können.Um das Netz besonders schnell machen zu können, gibt es am Rathaus, An der Ampel mehrere Basisstationen. Das nennt man auch “Backbone” (siehe Wiki). Wer sich das mal anschauen will, kann alle Punkte mit aktuellem Statusauf einer Live-Karte sehen.   (Zoomen auf Partenheim)Partenheim ist mit seinem Netz technisch am Freifunk-Mainz angeschlossen, deswegen auch die WLAN Kennung “Freifunk-Mainz” zu sehen ist.Unterstützung von FlüchtlingsunterkünftenDie aktuelle Flüchtlingssituation geht auch an uns Partenheim nicht spurlosvorbei. Wir haben bereits mehrere Unterkünfte an unser Netz angeschlossen undstellen damit einen unkomplizierten und freien Internetzugang für die Bewohnerbereit. Solltest du zuständig für eine Flüchtlingsunterkunft sein, jemandenkennen der eine betreut oder in der Nähe wohnen, melde dich bitte bei uns, damitwir solche Projekte weiter vorantreiben können. Vorab vielen Dank."
 
     }
   
